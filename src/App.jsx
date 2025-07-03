@@ -1,7 +1,9 @@
 function App() {
   return (
     <>
-      <h1 className="text-orange-500">hello</h1>
+      <p className="underline text-2xl">
+        This is underlined and enlarged text.
+      </p>
     </>
   );
 }
