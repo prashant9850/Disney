@@ -1,9 +1,9 @@
+import Header from "./components/Header";
 function App() {
   return (
     <>
-      <p className="underline text-2xl">
-        This is the ubdelined and enlarged text.
-      </p>
+      <p className="underline text-5xl">lets try something new</p>
+      <Header />
     </>
   );
 }
